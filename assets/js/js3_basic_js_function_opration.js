@@ -1,3 +1,10 @@
+console.log();
+console.log();
+console.log();
+console.log();
+console.log();
+console.log();
+
 let deposit_tk = 0.00;
 
 function Credit_card(deposit_money=0,withdraw_money=0) {
