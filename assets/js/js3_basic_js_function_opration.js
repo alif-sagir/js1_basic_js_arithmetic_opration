@@ -1,9 +1,10 @@
-console.log();
-console.log();
-console.log();
-console.log();
-console.log();
-console.log();
+console.log("");
+console.log("");
+console.log("");
+console.log("");
+console.log("");
+console.log("js3_basic_js_function_opration");
+
 
 let deposit_tk = 0.00;
 
